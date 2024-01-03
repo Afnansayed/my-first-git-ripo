@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+body{
+    width: 800px;
+    height:800px;
+    padding: 20px;
+    background-color: black;
+}
+.first{
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 30px;
+    font-size: larger;
+    color: cadetblue;
+}
+.second{
+    text-align: justify;
+    margin-left: 100px ;
+}
+h2{
+    color: rgb(0, 18, 44);
+    margin-bottom: 15px;
+}
+.third{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    color: rgba(1, 80, 27, 0.726);
+}
+.fourth{
+    color: rgb(122, 241, 3);
+}
+.fifth{
+    color: rgb(9, 228, 155);
+    margin-top: 20px;
+}
+.sixth{
+    color: rgb(68, 2, 129);
+    margin-bottom: 20px;
+}
+img{
+    width: 700px;
+    image-resolution: 780px;
+    image-orientation: inherit;
+    padding-left: 75px;
+}
